@@ -17,12 +17,11 @@ Aplicação mobile desenvolvido em React Native que por meio de sensores de moni
 - **Node Red**
   
 ## Instruções para Execução e Testes 🚀
-01.
-02.
-03.
-04.
-05.
-06.
-07.
+1. Baixar ou clonar o projeto
+2. Abrir a pasta do projeto com a IDE Visual Studio Code
+3. Abrir um terminal da IDE dentro da pasta e digitar ```npm install```
+4. Digital no terminal ```npx react-native start```
+5. Em um novo terminal digitar ```npx react-native run-android```
+6. A tela do Simulador irá abrir 
 
 ## Imagens 📱
