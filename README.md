@@ -27,9 +27,9 @@ Aplicação mobile desenvolvido em React Native que por meio de sensores de moni
 ## Telas 📱
 
 ### Tela Principal / Configuração / Histórico
-<img src="/preview/img06.png" align="Left" width="25%" height=500/>
-<img src="/preview/img08.png" align="Left" width="25%" height=500/>
-<img src="/preview/img13.png" width="25%" height=500/>
+<img src="/preview/img06.png" align="Left" width="25%" height=485/>
+<img src="/preview/img08.png" align="Left" width="25%" height=485/>
+<img src="/preview/img13.png" width="25%" height=485/>
 
 ### Acionando a Funcionalidade de Regar
 <img src="/preview/healthygardengif.gif" width="80%"/>
